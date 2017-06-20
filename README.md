@@ -14,4 +14,5 @@ MachineLearning
 
 ### 参考资料
 1. [Andrew Ng在斯坦福大学工学院的机器学习公开课CS229](https://see.stanford.edu/Course/CS229)
+2. [Udemy--Machine-Learning](https://github.com/jmportilla/Udemy---Machine-Learning)
 
