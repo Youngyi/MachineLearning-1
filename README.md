@@ -15,4 +15,4 @@ MachineLearning
 ### 参考资料
 1. [Andrew Ng在斯坦福大学工学院的机器学习公开课CS229](https://see.stanford.edu/Course/CS229)
 2. [Udemy--Machine-Learning](https://github.com/jmportilla/Udemy---Machine-Learning)
-
+3. [使用Matplotlib可视化优化算法](http://louistiao.me/posts/notebooks/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
