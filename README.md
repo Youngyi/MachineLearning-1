@@ -15,6 +15,7 @@ MachineLearning
 
 ### 参考资料
 1. [Andrew Ng在斯坦福大学工学院的机器学习公开课CS229](https://see.stanford.edu/Course/CS229)
-2. [Scikit Learn Document](http://scikit-learn.org/stable/documentation.html)
+2. [Scikit Learn官方文档](http://scikit-learn.org/stable/documentation.html)
 3. [Udemy--Machine-Learning](https://github.com/jmportilla/Udemy---Machine-Learning)
-4. [使用Matplotlib可视化优化算法](http://louistiao.me/posts/notebooks/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
+4. [机器学习实战](https://book.douban.com/subject/24703171/)
+5. [使用Matplotlib可视化优化算法](http://louistiao.me/posts/notebooks/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
