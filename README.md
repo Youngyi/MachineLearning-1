@@ -10,6 +10,7 @@ MachineLearning
     - [逻辑回归 Logistic Regression](https://github.com/reata/MachineLearning/blob/master/Logistic%20Regression.ipynb)
     - [广义线性模型 Generalized Linear Models](https://github.com/reata/MachineLearning/blob/master/Generalized%20Linear%20Models.ipynb)
     - [生成学习算法 Generative Learning Algorithms](https://github.com/reata/MachineLearning/blob/master/Generative%20Learning%20Algorithms.ipynb)
+    - [支持向量机 Support Vector Machines](https://github.com/reata/MachineLearning/blob/master/Support%20Vector%20Machines.ipynb)
     
 2. 学习理论（Learning Theory）
 3. 非监督学习（Unsupervised Learning）
