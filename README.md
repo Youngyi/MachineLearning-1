@@ -13,6 +13,8 @@ MachineLearning
     - [支持向量机 Support Vector Machines](https://github.com/reata/MachineLearning/blob/master/Support%20Vector%20Machines.ipynb)
     
 2. 学习理论（Learning Theory）
+    - [学习理论 Learning Theory](https://github.com/reata/MachineLearning/blob/master/Learning%20Theory.ipynb)
+
 3. 非监督学习（Unsupervised Learning）
 4. 强化学习（Reinforcement Learning）
 
