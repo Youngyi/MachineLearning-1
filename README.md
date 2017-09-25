@@ -14,6 +14,7 @@ MachineLearning
     
 2. 学习理论（Learning Theory）
     - [学习理论 Learning Theory](https://github.com/reata/MachineLearning/blob/master/Learning%20Theory.ipynb)
+    - [正则化和模型选择 Regularization and Model Selection](https://github.com/reata/MachineLearning/blob/master/Regularization%20and%20Model%20Selection.ipynb)
 
 3. 非监督学习（Unsupervised Learning）
 4. 强化学习（Reinforcement Learning）
