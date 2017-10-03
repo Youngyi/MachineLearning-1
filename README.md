@@ -18,6 +18,8 @@ MachineLearning
     - [应用机器学习 Advice on Applying Machine Learning](https://github.com/reata/MachineLearning/blob/master/Advice%20on%20Applying%20Machine%20Learning.ipynb)
 
 3. 非监督学习（Unsupervised Learning）
+    - [k均值聚类 k-Means Clustering](https://github.com/reata/MachineLearning/blob/master/k-Means%20Clustering%20Algorithm.ipynb)
+
 4. 强化学习（Reinforcement Learning）
 
 ### 参考资料
