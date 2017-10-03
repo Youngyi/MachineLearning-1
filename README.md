@@ -19,6 +19,7 @@ MachineLearning
 
 3. 非监督学习（Unsupervised Learning）
     - [k均值聚类 k-Means Clustering](https://github.com/reata/MachineLearning/blob/master/k-Means%20Clustering%20Algorithm.ipynb)
+    - [高斯混合模型 Gaussian Mixture Models](https://github.com/reata/MachineLearning/blob/master/Gaussian%20Mixture%20Models.ipynb)
 
 4. 强化学习（Reinforcement Learning）
 
