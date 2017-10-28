@@ -21,6 +21,7 @@ MachineLearning
     - [k均值聚类 k-Means Clustering](https://github.com/reata/MachineLearning/blob/master/k-Means%20Clustering%20Algorithm.ipynb)
     - [高斯混合模型 Gaussian Mixture Models](https://github.com/reata/MachineLearning/blob/master/Gaussian%20Mixture%20Models.ipynb)
     - [EM算法 The EM Algorithm](https://github.com/reata/MachineLearning/blob/master/The%20EM%20Algorithm.ipynb)
+    - [因子分析 Factor Analysis](https://github.com/reata/MachineLearning/blob/master/Factor%20Analysis.ipynb)
 
 4. 强化学习（Reinforcement Learning）
 
