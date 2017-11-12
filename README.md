@@ -22,6 +22,7 @@ MachineLearning
     - [高斯混合模型 Gaussian Mixture Models](https://github.com/reata/MachineLearning/blob/master/Gaussian%20Mixture%20Models.ipynb)
     - [EM算法 The EM Algorithm](https://github.com/reata/MachineLearning/blob/master/The%20EM%20Algorithm.ipynb)
     - [因子分析 Factor Analysis](https://github.com/reata/MachineLearning/blob/master/Factor%20Analysis.ipynb)
+    - [主成分分析 Principal Components Analysis](https://github.com/reata/MachineLearning/blob/master/Principal%20Components%20Analysis.ipynb)
 
 4. 强化学习（Reinforcement Learning）
 
