@@ -23,6 +23,7 @@ MachineLearning
     - [EM算法 The EM Algorithm](https://github.com/reata/MachineLearning/blob/master/The%20EM%20Algorithm.ipynb)
     - [因子分析 Factor Analysis](https://github.com/reata/MachineLearning/blob/master/Factor%20Analysis.ipynb)
     - [主成分分析 Principal Components Analysis](https://github.com/reata/MachineLearning/blob/master/Principal%20Components%20Analysis.ipynb)
+    - [独立成分分析 Independent Components Analysis](https://github.com/reata/MachineLearning/blob/master/Independent%20Components%20Analysis.ipynb)
 
 4. 强化学习（Reinforcement Learning）
 
