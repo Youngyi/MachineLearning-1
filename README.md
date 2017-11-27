@@ -26,6 +26,7 @@ MachineLearning
     - [独立成分分析 Independent Components Analysis](https://github.com/reata/MachineLearning/blob/master/Independent%20Components%20Analysis.ipynb)
 
 4. 强化学习（Reinforcement Learning）
+    - [强化学习和控制 Reinforcement Learning and Control](https://github.com/reata/MachineLearning/blob/master/Reinforcement%20Learning%20and%20Control.ipynb)
 
 ### 参考资料
 1. [Andrew Ng在斯坦福大学工学院的机器学习公开课CS229](https://see.stanford.edu/Course/CS229)
